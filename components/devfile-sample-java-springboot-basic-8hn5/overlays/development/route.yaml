@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-java-springboot-basic-8hn5
     app.kubernetes.io/part-of: my-app
-  name: devfile-sample-java-sprinv47i
+  name: devfile-sample-java-sprind6ty
 spec:
   path: /
   port:
